@@ -1,0 +1,1 @@
+SELECT * FROM borrowings WHERE return_date = NULL;
